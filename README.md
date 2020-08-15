@@ -9,8 +9,6 @@ Two players battle it out on a 6X7 grid, trying to connect four of their respect
 
 This is a turn-based game, and so players have the opportunity to block attempts of their opponents creating their connected checkers reaching the required, winning four. 
 
-The classic box set contains 21 red checkers and 22 yellow checkers. 
-
 
 # How to Play 
 
@@ -23,12 +21,7 @@ A "Reset Button" is also available to reset the board and game.
 
 # Limitations
 
-The game was designed to supplement my online JavaScript learning and is one of the first I have put together. As such, there are some bugs (e.g. a player can still add discs even though the game is over, during the short three-second period before the page is reset). I hope to address these issues in a later version. 
-
-
-# Styling
-
-Styling was not the main focus of the project, hence the basic layout, design and styling. 
+The game was designed to supplement my online JavaScript learning and is one of the first I have put together. As such, there are some bugs (e.g. a player can still add discs even though the game is over, during the short three-second period before the page is reset). I hope to address these issues in a later version. Styling was not the main focus of the project, hence the basic layout, design and styling.
 
 
 # Credits
