@@ -5,9 +5,7 @@ A retro grid-based game written in HTML, CSS and vanilla JavaScript.
 
 # Rules of Game
 
-Two players battle it out on a 6X7 grid, trying to connect four of their respective colored checkers/discs in either horizontal, vertical or diagonal directions. 
-
-This is a turn-based game, and so players have the opportunity to block attempts of their opponents creating their connected checkers reaching the required, winning four. 
+Two players battle it out on a 6 x 7 grid, trying to connect four of their respective colored checkers/discs in either horizontal, vertical or diagonal directions. This is a turn-based game, and so while players try to connect their own four discs, they are also trying to prevent their opponent from doing the same.
 
 
 # How to Play 
