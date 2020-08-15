@@ -1,6 +1,6 @@
 # Connect-Four
 
-A retro, grid-based game in Vanilla JavaScript, HTML and CSS.
+A retro grid-based game written in HTML, CSS and vanilla JavaScript.
 
 
 # Rules of Game
