@@ -10,7 +10,7 @@ Two players battle it out on a 6 x 7 grid, trying to connect four of their respe
 
 # How to Play 
 
-To start the game, Press the "Play Button," which unlocks the seven column buttons at the top of the board. Use the column buttons, labelled Col 1 to Col 7 to drop your checker into the desired slot. Once a player has connected four of their checkers either in horizontal, vertical or diagonal directions, the winner is announced and the game resets after three seconds. A "Reset Button" is also available to reset the board and game. 
+To start the game, press the "Play" button, which unlocks the seven column buttons at the top of the board. Use the column buttons, labelled "Col 1" to "Col 7" to drop your disc in the desired slot. Once a player has connected four of their checkers either in horizontal, vertical or diagonal directions, the winner is announced and the game resets after three seconds. A "Reset" button is also available for manual resetting. 
 
 
 # Limitations
